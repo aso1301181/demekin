@@ -4,6 +4,6 @@ print "デカキンは？";
 
 $deka="と";
 $deka2="です。"
-	aaaa	
+print $deka.$deka2;
 
 ?>
